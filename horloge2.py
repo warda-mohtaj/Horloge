@@ -13,4 +13,4 @@ secondes %= 60
 print("%d:%02d:%02d" % (heures, minutes, secondes))
 #affiche l'heure final
 
-#mon deuxième code qui marche avec le nombre de secondes donner
+#mon deuxième code qui marche avec le nombre de secondes donnée
